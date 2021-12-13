@@ -21,7 +21,7 @@ The final prepatory step was to create a custom icon to display, for which I use
  ## The Web Application 
 
  When the application is initally loaded, this is what you will see: 
- ![startup](images\startup.png)
+ ![startup](https://github.com/whalen323/finalproject/blob/master/finalgeog495-main/images/startup.png)
 
  The map display is a zoomed-out view of several major Seattle area hospitals, and even more are off-screen. Each hospital is denoted by an icon. You can click and drag the mouse to move around, and the mouse wheel to zoom in and out. 
 
@@ -30,9 +30,9 @@ The final prepatory step was to create a custom icon to display, for which I use
  In the top right corner of the screen is a geocoder, which I will discuss further below.
 
  You can click on any of the hospital names in the sidebar to have the camera brought to and zoomed in on the location of that particular hospital. A pop-up will also display the hospital's name and street address:
-![clicked](images\clicked.png)
+![clicked](https://github.com/whalen323/finalproject/blob/master/finalgeog495-main/images/clicked.png)
 
-Finally, perhaps the most important piece of the application, the geocoder! To use it, simply type in and select any Seattle area landmarks or street addresses and click the search icon. Then, you will see something similar to this: ![geocoder](images\geocoder.png)  
+Finally, perhaps the most important piece of the application, the geocoder! To use it, simply type in and select any Seattle area landmarks or street addresses and click the search icon. Then, you will see something similar to this: ![geocoder](https://github.com/whalen323/finalproject/blob/master/finalgeog495-main/images/geocoder.png)  
 
 A blue marker will pop up to denote the location that you chose, and the camera will shift to show both that location and where the closest hospital is situated. The same pop-up that you can reach from clicking on a hospital name in the sidebar will display as well. 
 
